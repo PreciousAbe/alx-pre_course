@@ -1,2 +1,1 @@
-# Intro
 My first readme
